@@ -1,0 +1,23 @@
+{
+  "next_page": 3421,
+  "written": 34194,
+  "columns": [
+    "source_type",
+    "registrationNumber",
+    "expiryDate",
+    "is_LRSuspended",
+    "is_LRCanceled",
+    "manufactureName",
+    "manufactureCountryAR",
+    "manufactureCountry",
+    "manufactureCity",
+    "productNumber",
+    "productName",
+    "productNameAr",
+    "genericName",
+    "description",
+    "homeUse",
+    "barCodes"
+  ],
+  "done": true
+}

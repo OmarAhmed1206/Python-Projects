@@ -1,0 +1,31 @@
+{
+  "next_page": 3163,
+  "written": 31616,
+  "columns": [
+    "source_type",
+    "deviceNumber",
+    "referenceNumber",
+    "brandName",
+    "riskClassification",
+    "expiryDate",
+    "licenseNumber",
+    "manufacture_Phone",
+    "manufacturerName",
+    "manufacture_CountryAr",
+    "manufacture_CountryEn",
+    "manufacture_city",
+    "isLocalManufacturer",
+    "modelNumber",
+    "gmdn",
+    "isSuspended",
+    "suspendTFADetails",
+    "isCanceled",
+    "cancelTfaDetails",
+    "singleUse",
+    "intendedUse",
+    "intendedUseArabicDescription",
+    "briefDescription",
+    "hasAccessories"
+  ],
+  "done": true
+}

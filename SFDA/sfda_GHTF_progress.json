@@ -1,0 +1,33 @@
+{
+  "next_page": 9893,
+  "written": 98920,
+  "columns": [
+    "source_type",
+    "referenceNumber",
+    "deviceNumber",
+    "tradeName",
+    "tradeNameAr",
+    "genericName",
+    "expiryDate",
+    "manufacturerName",
+    "manufacture_city",
+    "manufacture_Phone",
+    "manufacture_CountryAr",
+    "manufacture_CountryEn",
+    "isLocalManufacturer",
+    "deviceType_en",
+    "classification_en",
+    "classification_ar",
+    "isSuspended",
+    "suspendDate",
+    "isCanceled",
+    "isHomeUse",
+    "description",
+    "descriptionAr",
+    "gmdn",
+    "productId",
+    "modelNumber",
+    "accessories"
+  ],
+  "done": true
+}
