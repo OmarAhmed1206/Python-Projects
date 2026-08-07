@@ -70,7 +70,7 @@ async def about_command(message: Message):
 
 @dp.message(Command("ping"))
 async def ping_command(message: Message):
-    await message.answer("Pong! ✅")
+    await message.answer("Pong!")
 
 
 @dp.message(Command("history"))
